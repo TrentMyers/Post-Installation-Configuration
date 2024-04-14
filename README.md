@@ -28,4 +28,21 @@
   <ol>a. Admin Panel > Settings > User Settings</ol>
   <ol>Reqistration Required: Require registration and login to create tickets</ol>
 </ul>
-
+<ul>
+  <li>Configure <a href="https://docs.osticket.com/en/latest/Admin/Agents/Agents.html" target="_blank"> Agents (Workers)</a></li>
+  <ol>a. Admin Panel > Agents > Add New
+    <ol>i. Jane</ol>
+    <ol>ii. John </ol>
+  </ol>
+</ul>
+<ul>
+  Configure <a href="https://docs.osticket.com/en/latest/Admin/Agents/Agents.html" target="_blank"> Users (Customers)</a>
+  <ol>a. Agent Panel > Agents > Add New</ol>
+  <ol>
+    <ol>i. Karen </ol>
+    <ol>ii. Ken </ol>
+  </ol>
+</ul>
+<ul>
+  Configure <a href="https://docs.osticket.com/en/latest/Admin/Manage/SLA%20Plans.html" target="_blank"> SLA</a>
+</ul>
