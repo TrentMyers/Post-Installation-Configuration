@@ -2,7 +2,7 @@
 <img src="https://i.imgur.com/Clzj7Xs.png" alt="osTicket logo"/>
 </p>
 
-<h1>This is a super simple guide for post-installation setup within osTicket.</h1>
+<h1>This is a simple guide for post-installation configuration within osTicket.</h1>
 <ul>
   <li> <strong> Configure <a href="https://docs.osticket.com/en/latest/Admin/Agents/Roles.html" target="_blank"> roles </a></strong></li>
   <ol>a. Admin Panel > Agents > Roles</ol>
